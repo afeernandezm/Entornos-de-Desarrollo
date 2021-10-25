@@ -2,6 +2,10 @@ holaaaa, modificación linea 1
 Hola, he sacado un 
 9
 Estoy añadiendo una nueva funcionalidad
+<<<<<<< HEAD
 añadiendo linea
 añadiendo linea
 jjajaajjaaja
+=======
+holaaa
+>>>>>>> de0044b9e0a77b9afa12aa4f7a753cfedec65e38
